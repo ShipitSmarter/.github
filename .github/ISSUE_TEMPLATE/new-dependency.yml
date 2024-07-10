@@ -1,5 +1,5 @@
 name: New dependency report
-description: New dependencies are very welcome if they help you forward, we do expect you to perform some checks by using this form to create an issue in your repo. You can close them by mentioning this issue in your implementing PR.
+description: New dependencies are very welcome if they help you forward, we do expect you to perform some checks by using this form to create an issue in your repo. Close by mentioning your PR.
 title: "[new-dependency]: "
 labels: ["new-dependency"]
 body:
