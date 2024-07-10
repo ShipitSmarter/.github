@@ -17,7 +17,7 @@ body:
   attributes:
     label: Website
     description: "Where can you find information about this component"
-    placeholder: "Some public nice and shiny website"
+    placeholder: "URL to public website"
   validations:
     required: true
 
@@ -26,7 +26,7 @@ body:
   attributes:
     label: Public repository
     description: "Where can you find the source of this library (probably some GitHub repo)"
-    placeholder: "https://github.com/ShipitSmarter/vscode-sops-edit"
+    placeholder: "For example: https://github.com/ShipitSmarter/vscode-sops-edit"
   validations:
     required: false
 
@@ -46,8 +46,6 @@ body:
       * Is it maintained?
         * [ ] Do you see more than one contributor?
         * [ ] Does it have recent releases?
-      ...
-    render: bash
   validations:
     required: true
 
