@@ -12,6 +12,8 @@ body:
 
       Make sure to 'fixate' your dependency version (specify the version or use a https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json): we always want the build to be predictable.
 
+      Before incorporating your dependency in the project, be sure to agree with your guild on using this dependency and record the decision here. When in doubt, always consult the board (Michiel or Edwin).
+
 - type: input
   id: website
   attributes:
